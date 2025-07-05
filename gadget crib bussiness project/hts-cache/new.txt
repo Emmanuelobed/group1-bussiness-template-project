@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:03:32	11129/11129	---M-Z	200	added ('OK')	text/html	date:Sat,%2005%20Jul%202025%2009:17:27%20GMT	https://templatesjungle.com/demo/?url=https://demo.templatesjungle.com/luxury/&purl=https://templatesjungle.gumroad.com/l/luxury-free-one-page-website-template	C:/Users/Osborn%20Hosi/Desktop/gadget%20crib%20bussiness%20project/templatesjungle.com/demo/indexbb19.html	(from )
+12:03:32	211/211	---MC-	200	added ('OK')	text/plain	date:Sat,%2005%20Jul%202025%2009:17:27%20GMT	https://templatesjungle.com/robots.txt		(from )
